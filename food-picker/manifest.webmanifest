@@ -1,0 +1,18 @@
+{
+  "name": "桃園今天吃什麼？",
+  "short_name": "桃園吃什麼",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7ef",
+  "theme_color": "#ff7a45",
+  "description": "桃園區隨機選餐小工具，可新增、停用與管理餐廳清單。",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
